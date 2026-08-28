@@ -1,0 +1,12 @@
+{
+  "name": "ks-2026-slate",
+  "version": "1.0.0",
+  "description": "Kansas 2026 Democratic candidate slate — one-page, mobile-first",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
